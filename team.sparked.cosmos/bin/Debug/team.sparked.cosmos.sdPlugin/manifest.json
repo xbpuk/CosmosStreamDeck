@@ -1,0 +1,43 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/icon",
+      "Name": "Clock In/Out",
+      "States": [
+        {
+          "Image": "Images/pluginActionStart",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        },
+        {
+          "Image": "Images/pluginActionEnd",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "You can use this action to clock in and out of the Cosmos system! Try it out!",
+      "UUID": "team.sparked.cosmos.pluginaction",
+      "PropertyInspectorPath": "PropertyInspector/PluginActionPI.html"
+    }
+  ],
+  "Author": "Jake W",
+  "Name": "team.sparked.cosmos",
+  "Description": "Test",
+  "Icon": "Images/pluginIcon",
+  "URL": "https://cosmos.sparked.team/",
+  "Version": "1.0",
+  "CodePath": "team.sparked.cosmos",
+  "Category": "Sparked Host LLC",
+  "CategoryIcon": "Images/categoryIcon",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "4.9"
+  }
+}
