@@ -1,1 +1,1 @@
-# StreamLabs-Cosmos
+# Cosmos StreamDeck Plugin
